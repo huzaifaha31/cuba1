@@ -1,8 +1,7 @@
 {
-  "homepage": "<huzaifaha31>.github.io/<cuba1>",
+  "homepage": "<https://huzaifaha31.github.io/cuba1>",
   "name": "malay-medical-manuscript-exploration",
-  "private": true,
-  "version": "1.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
